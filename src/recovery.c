@@ -60,6 +60,8 @@ static const char *TEMPORARY_LOG_FILE = "/tmp/miui_recovery.log";
 static const char *TEMPORARY_INSTALL_FILE = "/tmp/last_install";
 static const char *SIDELOAD_TEMP_DIR = "/tmp/sideload";
 
+//test
+
 
 /*
  * The recovery tool communicates with the main system through /cache files.
